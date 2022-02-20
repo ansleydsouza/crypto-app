@@ -1,4 +1,5 @@
 import './App.css';
+import './input.css'
 import Axios from 'axios';
 import { useState, useEffect } from 'react';
 
@@ -17,7 +18,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>All Cryptocurrencies</h1>
+      <h1 className="text-3xl font-bold">All Cryptocurrencies</h1>
       <input
         type = "text"
         placeholder='Search'
