@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Thanks to https://www.geeksforgeeks.org/how-to-create-a-cryptocurrency-app-in-reactjs/ for the tutorial.
+
 ## Available Scripts
 
 In the project directory, you can run:
